@@ -1,6 +1,6 @@
 package package1;
 
-public abstract class Phone {
+public  abstract class Phone {
 	
 	int num = 1;
 	int sum;

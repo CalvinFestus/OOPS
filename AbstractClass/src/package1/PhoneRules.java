@@ -1,6 +1,6 @@
 package package1;
 
-public interface PhoneRules {
+public  interface PhoneRules {
 	
 	int num = 10;
 	
