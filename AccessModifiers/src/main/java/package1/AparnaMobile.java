@@ -1,12 +1,16 @@
 package package1;
 
+/*
+ * Access Modifiers
+ */
+
 public class AparnaMobile {
 	
 	public static void main(String[] args) {
 		
 		SmartPhone j7 = new SmartPhone();
 		
-		//All Public Methods will be accessed - calling and camera
+		//All  Public  Methods will be accessed - calling and camera
 		j7.calling();
 		j7.camera();
 		
